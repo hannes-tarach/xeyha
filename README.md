@@ -1,7 +1,7 @@
 - 👋 Hej! @xeyha här, eller Hannes.
 - Fritidsaktiviteter är, koda, pingis, spel, hunden och underhålla huset.
 - Programmeringsspråk: Python, JavaScript, Java
-- Kandidatexamen i Informatik vårterminen 2025.
+- Mål: Kandidatexamen i Informatik vårterminen 2025.
 - Arbetar i nuläget som utredare på statlig myndighet.
 
 - Replit: https://replit.com/@hannestarach
