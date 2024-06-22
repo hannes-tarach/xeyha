@@ -9,10 +9,10 @@
 - Arbetar i nuläget som utredare på statlig myndighet, tidigare kandidatexamen är Sociologi.
 
 
-- Replit: https://replit.com/@hannestarach
+- LinkedIN: https://www.linkedin.com/in/hannes-tarach-5041b9313/
 - BOOT: https://www.boot.dev/u/hannes-tarach
 - Discord: professorn
-  
+- Replit: https://replit.com/@hannestarach
 
 
 <!---
