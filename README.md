@@ -10,7 +10,7 @@
 
 
 - Replit: https://replit.com/@hannestarach
-- BOOT: https://www.boot.dev/u/hannes
+- BOOT: https://www.boot.dev/u/hannes-tarach
 - Discord: professorn
   
 
